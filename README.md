@@ -1,6 +1,8 @@
 # Scrum questions
 Questions for a possible company-wide/team-wide scrum survey.
 
+These questions are a work in progress, and contributions are welcome through PR or issues opened on [the github's project page](https://github.com/djrtl/scrum-questions). This text is copyrighted by the original author, Matteo Mecucci, and licensed under a permissive [CC by-sa 4.0 license](LICENSE.md).
+
 For each question, the possible answers are:
 * No opinion
 * Yes, to a large extent
